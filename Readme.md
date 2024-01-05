@@ -15,5 +15,3 @@ Then I tried to add Polymorphism, I hope it was useful.
 One of the important details is that you cannot directly inherit from Abstract classes, so how can other classes inherit?
 The first step we will follow here is to inherit from our Abstract class with the Phoneinfo class. Then we override by inheriting from the "Phoneinfo" class as in the example in the Nokia class, in this way we can apply the same inheritance and override process to our other brand phones.
 I wish everyone good work and good days.
-
-Translated with www.DeepL.com/Translator (free version)
